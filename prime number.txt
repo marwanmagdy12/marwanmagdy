@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: prime number, Configuration: Debug Any CPU ------
+1>prime number -> C:\Users\HIH SOFT\source\repos\prime number\prime number\bin\Debug\netcoreapp3.1\prime number.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
